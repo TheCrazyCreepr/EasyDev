@@ -1,0 +1,7 @@
+name: EasyDev
+version: '${project.version}'
+main: me.joshuak.easydev.EasyDev
+api-version: 1.17
+authors: [ JoshuaK ]
+description: Commonly used methods and tools to speed up development workflow.
+website: https://arcturusmc.com/
